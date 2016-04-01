@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>carrierid</key>
+	<string>CT3331785</string>
+	<key>installtime</key>
+	<string>2014-10-01 07:08:22</string>
+	<key>installtimerevert</key>
+	<string>false</string>
+	<key>qamode</key>
+	<string>0</string>
+	<key>revertdata</key>
+	<dict>
+		<key>chrome</key>
+		<data>
+		</data>
+		<key>firefox</key>
+		<data>
+		</data>
+		<key>safari</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVy
+		VCR0b3ASAAGGoKcHCBkaGxwdVSRudWxs2QkKCwwNDg8QERITFBUWFBIXGF8Q
+		HEFsd2F5c1Jlc3RvcmVTZXNzaW9uQXRMYXVuY2hab3N4VmVyc2lvbl8QEU5l
+		d1dpbmRvd0JlaGF2aW9yWEhvbWVQYWdlViRjbGFzc15OZXdUYWJCZWhhdmlv
+		cl8QFlJlc3RvcmVTZXNzaW9uQXRMYXVuY2hdc2FmYXJpVmVyc2lvbl8QGFNl
+		YXJjaFByb3ZpZGVySWRlbnRpZmllchP//////////4ACEACABYAGgAOABEwK
+		AAAACQAAAAEAAABPEBAHAAAAAAAAAAEAAAD/////UF8QPGh0dHA6Ly9zZWFy
+		Y2guc3RydHBvaW50LmNvbS8/Yz0xJnY9aW5zTWFjJnQ9MTQwNyZhcD03MTMx
+		MTY1ONIeHyAhWiRjbGFzc25hbWVYJGNsYXNzZXNeUE5TYWZhcmlBc3NldHOi
+		IiNeUE5TYWZhcmlBc3NldHNYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLR
+		JidUcm9vdIABAAgAEQAaACMALQAyADcAPwBFAFgAdwCCAJYAnwCmALUAzgDc
+		APcBAAECAQQBBgEIAQoBDAEZASwBLQFsAXEBfAGFAZQBlwGmAa8BwQHEAckA
+		AAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAByw==
+		</data>
+	</dict>
+	<key>spid</key>
+	<string>709E89F7-3F0B-4BA9-8794-869285655171</string>
+	<key>version</key>
+	<string>1.12.0.60</string>
+</dict>
+</plist>
